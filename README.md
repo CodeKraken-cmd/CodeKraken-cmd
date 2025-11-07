@@ -1,6 +1,5 @@
 <div align="center">
   <h1>🟣 CodeKraken</h1>
----
 
 ## 🚀 About
 <p align="center">
@@ -44,8 +43,8 @@
 
 ## 🔥 Featured Projects
 <p align="center">
-  <a href="https://github.com/CodeKraken-cmd/video-generation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeKraken-cmd&repo=video-generation&theme=tokyonight&hide_border=true" /></a>
   <a href="https://github.com/CodeKraken-cmd/TrendLift"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeKraken-cmd&repo=TrendLift&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/CodeKraken-cmd/video-generation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeKraken-cmd&repo=video-generation&theme=tokyonight&hide_border=true" /></a>
 </p>
 <p align="center">
   <a href="https://github.com/CodeKraken-cmd/local-gpt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeKraken-cmd&repo=local-gpt&theme=tokyonight&hide_border=true" /></a>
@@ -54,12 +53,22 @@
 
 ---
 
-## My Contribution
+## 🐍 My Contribution Snake
+<!-- Shows status while snake is generating -->
 <p align="center">
   <a href="https://github.com/CodeKraken-cmd/CodeKraken-cmd/actions/workflows/snake.yml">
     <img src="https://img.shields.io/badge/Contribution%20Snake-Generating-8e44ad?logo=github" />
   </a>
 </p>
+
+<!-- After first successful workflow run, replace above with:
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeKraken-cmd/CodeKraken-cmd/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/CodeKraken-cmd/CodeKraken-cmd/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+-->
 
 ---
 
