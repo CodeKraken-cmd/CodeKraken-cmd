@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>CodeKraken</h1>
+  <h1>👍⭐CodeKraken⭐👍</h1>
 
 <p align="center">
   <img
