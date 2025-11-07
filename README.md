@@ -46,17 +46,6 @@
          src="https://github-profile-trophy.vercel.app/?username=CodeKraken-cmd&theme=flat&no-frame=true&margin-w=14&margin-h=14&column=2" />
   </picture>
 </p>
----
-
-## 🔥 Featured Projects
-<p align="center">
-  <a href="https://github.com/CodeKraken-cmd/TrendLift"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeKraken-cmd&repo=TrendLift&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/CodeKraken-cmd/video-generation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeKraken-cmd&repo=video-generation&theme=tokyonight&hide_border=true" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/CodeKraken-cmd/local-gpt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeKraken-cmd&repo=local-gpt&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/CodeKraken-cmd/EchoText"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeKraken-cmd&repo=EchoText&theme=tokyonight&hide_border=true" /></a>
-</p>
 
 ---
 
