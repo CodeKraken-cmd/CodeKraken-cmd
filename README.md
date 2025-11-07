@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🟣 CodeKraken</h1>
+  <h1>CodeKraken</h1>
 
 <p align="center">
   <img
@@ -60,23 +60,13 @@
 
 ---
 
-## 🐍 My Contribution Snake
+## 🐍 My Contribution
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeKraken-cmd/CodeKraken-cmd/output/github-contribution-grid-snake-dark.svg" />
     <img alt="snake animation" src="https://raw.githubusercontent.com/CodeKraken-cmd/CodeKraken-cmd/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
-
-<!-- After first successful workflow run, replace above with:
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeKraken-cmd/CodeKraken-cmd/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/CodeKraken-cmd/CodeKraken-cmd/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
--->
 
 ---
 
