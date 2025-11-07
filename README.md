@@ -45,12 +45,13 @@
 ---
 
 ## 🐍 My Contribution Snake
-<!-- Shows status while snake is generating -->
 <p align="center">
-  <a href="https://github.com/CodeKraken-cmd/CodeKraken-cmd/actions/workflows/snake.yml">
-    <img src="https://img.shields.io/badge/Contribution%20Snake-Generating-8e44ad?logo=github" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeKraken-cmd/CodeKraken-cmd/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/CodeKraken-cmd/CodeKraken-cmd/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
+
 
 <!-- After first successful workflow run, replace above with:
 <p align="center">
