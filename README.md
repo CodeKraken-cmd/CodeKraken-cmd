@@ -1,72 +1,80 @@
-<!-- Animated 3D Kraken Logo (SVG) -->
-<p align="center">
-  <img src="assets/kraken-3d-purple.svg" width="260" height="260" alt="CodeKraken 3D Logo"/>
-</p>
-
-<h1 align="center">🟣 CodeKraken</h1>
-<p align="center"><b>Full-Stack Engineer • Cloud & DevOps • AI Automation Architect</b></p>
-
 <div align="center">
-  <i>Building systems that scale. Automating the parts nobody wants to touch.</i>
+  <h1>🟣 CodeKraken</h1>
+  <p><b>Full-Stack Engineer • Cloud & DevOps • AI Automation Architect</b></p>
+
+  <p>
+    <a href="https://github.com/CodeKraken-cmd?tab=followers">
+      <img height="28" src="https://img.shields.io/github/followers/CodeKraken-cmd?style=flat&color=8e44ad&label=Follow" />
+    </a>
+  </p>
+
+  <img height="22" src="https://komarev.com/ghpvc/?username=CodeKraken-cmd&style=flat&color=lightgrey" alt="Profile views" />
 </div>
 
 ---
 
-<!-- ASCII banner (optional visual impact in profile) -->
-<details>
-  <summary><b>Open ASCII Kraken Banner</b></summary>
-
-██╗ ██╗██████╗ █████╗ ██╗ ██╗███████╗███╗ ██╗
-██║ ██╔╝██╔══██╗██╔══██╗██║ ██╔╝██╔════╝████╗ ██║
-█████╔╝ ██████╔╝███████║█████╔╝ █████╗ ██╔██╗ ██║
-██╔═██╗ ██╔══██╗██╔══██║██╔═██╗ ██╔══╝ ██║╚██╗██║
-██║ ██╗██║ ██║██║ ██║██║ ██╗███████╗██║ ╚████║
-╚═╝ ╚═╝╚═╝ ╚═╝╚═╝ ╚═╝╚═╝ ╚═╝╚══════╝╚═╝ ╚═══╝
-🟣 The Kraken Is Awake 🟣
-
-
-## 🏆 Tech Stack
+## 🚀 About
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,go,bash,powershell" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,react,tailwind,fastapi,spring,express" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,linux" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2200&pause=700&color=A855F7&center=true&vCenter=true&repeat=true&width=900&height=48&lines=Building+cloud-native+and+AI-driven+systems;Python+%7C+TypeScript+%7C+Go;FastAPI+%2B+React+%2B+Node.js;Microservices+and+Distributed+Architecture;Postgres+%7C+MongoDB+%7C+Redis;Docker+%7C+Kubernetes+%7C+Terraform;AWS+%2F+Azure+%2F+CI%2FCD;Scalable+Systems+Done+Right"
+  />
 </p>
 
-## 🔥 Highlight
-**CodeKraken-cmd** — the developer acceleration toolkit  
+---
+
+## 🧠 Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,react,nodejs,nextjs,fastapi,go,postgres,mysql,mongodb,redis,graphql,kafka,aws,azure,docker,kubernetes,terraform,githubactions,linux,git,vscode&perline=12" />
+</div>
+
+---
+
+## 📊 GitHub Pulse
+
 <p align="center">
-  <a href="https://github.com/CodeKraken-cmd/CodeKraken-cmd">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeKraken-cmd&repo=CodeKraken-cmd&theme=tokyonight&hide_border=true" />
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CodeKraken-cmd&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CodeKraken-cmd&show_icons=true&rank_icon=github&theme=default&hide_border=true" height="160" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=CodeKraken-cmd&theme=tokyonight&hide_border=true" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=CodeKraken-cmd&theme=default&hide_border=true" height="160" />
+</picture>
 </p>
 
-## 🚀 Project Showcase
-| Project | What it does | Stack |
-|---|---|---|
-| **TrendLift** | AI-assisted ecommerce platform | React, FastAPI, Docker, Postgres |
-| **MicroAgentStack** | Micro-agents for workflow automation | Python, LangChain, Redis |
-| **CodeKraken-cmd** | Developer workflow accelerator CLI | Node.js, Bash, GH Actions |
+---
 
-## 📊 Stats & Growth
+## 🔥 Featured Projects
+
 <p align="center">
-  <img src="https://img.shields.io/github/followers/CodeKraken-cmd?label=Followers&style=for-the-badge&color=8e44ad"/>
-  <img src="https://img.shields.io/github/stars/CodeKraken-cmd?style=for-the-badge&color=8e44ad"/>
+  <a href="https://github.com/CodeKraken-cmd/CodeKraken-cmd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeKraken-cmd&repo=CodeKraken-cmd&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/CodeKraken-cmd/MicroAgentStack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeKraken-cmd&repo=MicroAgentStack&theme=tokyonight&hide_border=true" /></a>
 </p>
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CodeKraken-cmd&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=CodeKraken-cmd&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/CodeKraken-cmd/TrendLift"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeKraken-cmd&repo=TrendLift&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/CodeKraken-cmd/gateway"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodeKraken-cmd&repo=gateway&theme=tokyonight&hide_border=true" /></a>
 </p>
+
+---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CodeKraken-cmd/CodeKraken-cmd/output/github-contribution-grid-snake.svg" />
+  <a href="https://github.com/CodeKraken-cmd/CodeKraken-cmd/actions/workflows/snake.yml">
+    <img src="https://img.shields.io/badge/Contribution%20Snake-Generating-8e44ad?logo=github" />
+  </a>
 </p>
 
-## 🎯 Philosophy
-**Build with intention. Automate with intelligence. Ship with confidence.**
-
-<!--
-Optional: once you upload a logo file to /assets/kraken.gif, add this at the top:
-<p align="center"><img src="assets/kraken.gif" width="260" height="260" /></p>
+<!-- After first workflow run, replace the above with:
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeKraken-cmd/CodeKraken-cmd/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/CodeKraken-cmd/CodeKraken-cmd/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 -->
+
+---
+
+<p align="center"><i>“Build with intention. Automate with intelligence. Ship with confidence.”</i></p>
