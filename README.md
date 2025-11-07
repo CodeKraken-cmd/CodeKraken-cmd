@@ -1,7 +1,6 @@
 <div align="center">
   <h1>🟣 CodeKraken</h1>
-
-## 🚀 About
+  
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2200&pause=700&color=A855F7&center=true&vCenter=true&repeat=true&width=900&height=48&lines=Cloud-native+%2B+AI-driven+engineering;Python+%7C+TypeScript+%7C+Go;FastAPI+%2B+React+%2B+Node.js;Event-driven+Microservices+%7C+Kafka;Postgres+%7C+MongoDB+%7C+Redis;Docker+%7C+Kubernetes+%7C+Terraform;AWS+%7C+Azure;CI%2FCD+with+GitHub+Actions"
@@ -26,14 +25,6 @@
           srcset="https://github-readme-stats.vercel.app/api?username=CodeKraken-cmd&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   <img alt="GitHub Stats"
        src="https://github-readme-stats.vercel.app/api?username=CodeKraken-cmd&show_icons=true&rank_icon=github&theme=default&hide_border=true&cache_seconds=1800"
-       height="160" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://streak-stats.demolab.com?user=CodeKraken-cmd&theme=tokyonight&hide_border=true" />
-  <img alt="GitHub Streak"
-       src="https://streak-stats.demolab.com?user=CodeKraken-cmd&theme=default&hide_border=true"
        height="160" />
 </picture>
 
