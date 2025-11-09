@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👍⭐CodeKraken⭐👍</h1>
-
+<img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg">
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2200&pause=700&color=A855F7&center=true&vCenter=true&repeat=true&width=900&height=48&lines=Cloud-native+%2B+AI-driven+engineering;Python+%7C+TypeScript+%7C+Go;FastAPI+%2B+React+%2B+Node.js;Event-driven+Microservices+%7C+Kafka;Postgres+%7C+MongoDB+%7C+Redis;Docker+%7C+Kubernetes+%7C+Terraform;AWS+%7C+Azure;CI%2FCD+with+GitHub+Actions"
