@@ -31,22 +31,6 @@
   </picture>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <picture>
-    <!-- Desktop (8 cups) -->
-    <source media="(min-width:1200px)"
-            srcset="https://github-profile-trophy.vercel.app/?username=CodeKraken-cmd&theme=flat&no-frame=true&margin-w=14&margin-h=14&column=5" />
-    <!-- Tablet (4 cups) -->
-    <source media="(min-width:820px)"
-            srcset="https://github-profile-trophy.vercel.app/?username=CodeKraken-cmd&theme=flat&no-frame=true&margin-w=14&margin-h=14&column=5" />
-    <!-- Mobile (2 cups) -->
-    <img alt="GitHub trophies"
-         src="https://github-profile-trophy.vercel.app/?username=CodeKraken-cmd&theme=flat&no-frame=true&margin-w=14&margin-h=14&column=2" />
-  </picture>
-</p>
-
 ---
 
 ## 🐍 My Contribution
