@@ -1,5 +1,4 @@
 <div align="center">
-  <h1>👍⭐CodeKraken⭐👍</h1>
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg">
 <p align="center">
   <img
