@@ -2,7 +2,8 @@
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CodeKraken-cmd/CodeKraken-cmd/demo/Skills_Animation_White.gif" width="500" />
+  <p>🐍print("Today's humor!")</p>
+  <img src ="https://camo.githubusercontent.com/6ac07f173f20c1071cca3a01a8e88a58b583afedd0e8ca6c8629692a9fe3c23a/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f617069">
 </p>
 
 ---
