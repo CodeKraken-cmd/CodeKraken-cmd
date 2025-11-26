@@ -3,12 +3,10 @@
 
 <img src = "https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
 
-<div style="background-image: url('https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg'); background-size: cover; background-repeat: no-repeat; background-position: center; padding: 25px; text-align: center;">
   <h1>🐍print("Today's humor!")</h1>
   <img src="https://camo.githubusercontent.com/6ac07f173f20c1071cca3a01a8e88a58b583afedd0e8ca6c8629692a9fe3c23a/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f617069">
-</div>
 
-## 🐍 My Contribution
+## My Contribution
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeKraken-cmd/CodeKraken-cmd/output/github-contribution-grid-snake-dark.svg" />
