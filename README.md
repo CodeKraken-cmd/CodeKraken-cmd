@@ -2,10 +2,17 @@
 <img src="https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg">
 
 <img src = "https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
-
-  <h1>🐍print("Today's humor!")</h1>
-  <img src="https://camo.githubusercontent.com/6ac07f173f20c1071cca3a01a8e88a58b583afedd0e8ca6c8629692a9fe3c23a/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f617069">
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Shayanthn/Shayanthn/raw/f8ee21a602bcfcae28ae7af94444731484aee760/Coding%20The%20Matrix%20GIF.gif" width="100%">
+    </td>
+    <td align="center">
+      <h1>🐍print("Today's humor!")</h1>
+      <img src="https://camo.githubusercontent.com/6ac07f173f20c1071cca3a01a8e88a58b583afedd0e8ca6c8629692a9fe3c23a/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f617069" width="100%">
+    </td>
+  </tr>
+</table>
 ## My Contribution
 <p align="center">
   <picture>
