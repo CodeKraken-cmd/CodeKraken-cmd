@@ -15,7 +15,7 @@
 </table>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=007107&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
-## My Contribution
+<h3>My Contribution</h3>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeKraken-cmd/CodeKraken-cmd/output/github-contribution-grid-snake-dark.svg" />
